@@ -216,3 +216,49 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ============================
+# Tambahan khusus proyek CIVARA HOSPITAL
+# Foto dokter (stock photo, hanya dipakai sebagai dummy data)
+# ============================
+Poli Umum_dr. Allison Renee.png
+Poli Umum_dr. Daniel Alexander.png
+Poli Umum_dr.Grace Mitcell.png
+dr dewanggie.png
+dr. Ethan.jpg
+dr. Jay, Sp.A.png
+dr. akira.png
+dr. celine.png
+dr. david.png
+dr. elle.png
+dr. jax.png
+dr. joe.png
+dr. rachel.png
+dr. variesa.png
+dr.Angelica, Sp.A.png
+dr.Ayu.jpg
+dr.Ayusita.jpg
+dr.Lily.jpg
+dr.Ray.jpg
+dr.Rizky.jpg
+dr.Samuel, Sp.A.png
+dr.Zoe.jpg
+dr.andi.jpg
+dr.lena.jpeg
+drg.Alex, Sp.Perio.png
+drg.Alicia, Sp.Pros.png
+drg.Budi.jpg
+drg.Johnson, Sp.Ort.png
+drg.Maria.jpg
+
+# Data JSON yang dibuat otomatis saat aplikasi dijalankan
+accounts5.json
+additional_info.json
+pesanan user.json
+poli_gigi2.json
+poli_anak2.json
+poli_jantung2.json
+poli_mata2.json
+poli_penyakit_dalam2.json
+poli_umum2.json
+rating2.json
